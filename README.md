@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**ChernyshovaOA/ChernyshovaOA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Ольга Чернышова
 
-Аналитик данных (учебный опыт):
+Я начинающий аналитик данных с учебным опытом:
+
 Набор инструментов: Python (pandas, numpy, matplotlib, scipe, seaborn, dash), SQL, Tableau. 
 Освоила:
 - статистический анализ,
