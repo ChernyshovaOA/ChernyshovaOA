@@ -4,6 +4,8 @@
 
 Я начинающий аналитик данных
 
+Мой телеграмм @OA_Chernyshova
+
 ### Набор инструментов: 
 
 Python (pandas, numpy, matplotlib, scipe, seaborn, dash), SQL, Tableau. 
