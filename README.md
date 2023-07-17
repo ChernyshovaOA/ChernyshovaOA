@@ -4,7 +4,7 @@
 
 Я начинающий аналитик данных
 
-Мой телеграмм https://t.me/OA_Chernyshova
+Мой Telegram https://t.me/OA_Chernyshova
 
 ### Набор инструментов: 
 
